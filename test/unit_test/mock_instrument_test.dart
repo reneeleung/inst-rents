@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import '../lib/mocks/mock_instrument.dart';
+import '../../lib/mocks/mock_instrument.dart';
 
 void main() {
   test('test fetchAny', () {
